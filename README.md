@@ -1,24 +1,18 @@
 <h1 align="center">Hi 👋, I'm Tanishq</h1>
-<h3 align="center">A passionate Full Stack Developer | BCA Student | Java & MERN Enthusiast</h3>
+<h3 align="center">A passionate Full Stack Developer | BCA Student | Java</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on:  
-  `Next.js Projects`,  `Full-fledged Discord Bot`
-
-- 🌱 I’m currently learning:  
-  `Java Full Stack`, `Spring Boot`, `Next.js`
+  `QuickShow — Movie Ticket Booking Web App`
 
 - 💬 Ask me about:  
-  `MERN Stack`, `React.js`, `Node.js`, `MongoDB`, `Express`, `Java`, `SQL`
-
-- 🧠 Goals for 2025:  
-  `Become a Java Backend Developer`, `Contribute to Open Source`, `Land a good dev role/internship`
+  `MERN Stack`, `React.js`, `Node.js`, `MongoDB`, `Java`, `Spring Boot`, `SQL`
 
 - 📫 Reach me at:  
-  `tanishqagarwal9929@gmail.com`
+  `tanishqsinghal9929@gmail.com`
 
 ---
 
@@ -26,8 +20,8 @@
 
 ```bash
 💻 Languages: Java, JavaScript, C++ (Basics), C (Basics)
-🌐 Frontend: HTML, CSS, Tailwind CSS, React.js, Next.js
-🔙 Backend: Node.js, Express.js, Java (Spring Boot - learning)
+🌐 Frontend: HTML, CSS, Tailwind CSS, React.js,
+🔙 Backend: Node.js, Express.js, Java (Spring Boot)
 🛢️ Database: MongoDB, MySQL
-🔧 Tools: Git, GitHub, Postman, VSCode, Figma
+🔧 Tools: Git, GitHub, Postman, VSCode, Figma, Swagger
 ☁️ Hosting: Vercel, Netlify, Render
